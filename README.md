@@ -21,3 +21,4 @@ My name is Thomas and I"m a Webfrontend develop who is passionate about building
 
 ## &#x1f4c8; GitHub Stats
 
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasLincoln&show_icons=true&locale=en&layout=compact&theme=radical" alt="Thomas Lincoln" /></p>
