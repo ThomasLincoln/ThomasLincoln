@@ -22,4 +22,4 @@ My name is Thomas and I"m a Webfrontend develop who is passionate about building
 ## &#x1f4c8; GitHub Stats
 
 <br>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ThomasLincoln&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
