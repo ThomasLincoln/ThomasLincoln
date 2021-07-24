@@ -8,3 +8,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ThomasLincoln)
 
 My name is Thomas and I"m a Webfrontend develop who is passionate about building tech, teaching and learning new technologies.
+
+### 🛠 &nbsp;Tech Stack
