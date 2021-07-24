@@ -5,7 +5,7 @@
   <img align="left" alt="Thomas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ThomasLincoln)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ThomasLincoln.visitor-badge)
 
 My name is Thomas and I'm a Webfrontend develop who is passionate about building tech, teaching and learning new technologies.
 
