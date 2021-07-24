@@ -23,4 +23,6 @@ My name is Thomas and I"m a Webfrontend develop who is passionate about building
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasLincoln&show_icons=true&locale=en&layout=compact&theme=radical" alt="Thomas Lincoln"/></p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasLincoln&theme=radical" alt="Thomas Lincoln" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasLincoln&theme=radical" alt="Thomas Lincoln" /></p>
+
+[![Thomas's github activity graph](https://activity-graph.herokuapp.com/graph?username=ThomasLincoln&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
