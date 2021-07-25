@@ -7,7 +7,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ThomasLincoln.visitor-badge)
 
-My name is Thomas and I'm a Webfrontend student. Who is passionate about building tech, teaching and learning new technologies.
+My name is Thomas and I'm a Web developer student. Who is passionate about building tech, teaching and learning new technologies.
 
 ### 🛠 &nbsp;Tech Stack
 
