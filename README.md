@@ -9,6 +9,10 @@
 
 My name is Thomas and I'm a Web developer student. Who is passionate about building tech, teaching and learning new technologies.
 
+### Status
+
+I'm studing Unity and Js in the moment.
+
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
