@@ -1,7 +1,7 @@
 ### Hi there i'm Thomas
 
 <div>
-  <a href="https://github.com/ThomasLincoln">
+  <a href="https://github.com/ThomasLincoln"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasLincoln&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasLincoln&layout=compact&langs_count=7&theme=dark"/>
 </div>
