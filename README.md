@@ -7,9 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasLincoln&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### Status
-
-I'm studing Unity and Js in the moment.
+In moment 🌱: Js and Unity Game Develop
 
 ### 🛠 &nbsp;Tech Stack
 
