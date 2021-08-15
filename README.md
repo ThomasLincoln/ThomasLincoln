@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasLincoln&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-My name is Thomas and I'm a Web developer student. Who is passionate about building tech, teaching and learning new technologies.
+<p> My name is Thomas and I'm a Web developer student. Who is passionate about building tech, teaching and learning new technologies.</p>
 
 ### Status
 
