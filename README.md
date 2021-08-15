@@ -1,12 +1,11 @@
 ### Hi there i'm Thomas
+<p> My name is Thomas and I'm a Web developer student. Who is passionate about building tech, teaching and learning new technologies.</p>
 
 <div>
   <a href="https://github.com/ThomasLincoln"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasLincoln&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasLincoln&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<p> My name is Thomas and I'm a Web developer student. Who is passionate about building tech, teaching and learning new technologies.</p>
 
 ### Status
 
