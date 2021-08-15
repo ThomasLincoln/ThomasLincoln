@@ -1,9 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there i'm Thomas
 
-
-<a href="https://www.linkedin.com/in/thomas-lincoln-115b19187/">
-  <img align="left" alt="Thomas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<div>
+  <a href="https://github.com/ThomasLincoln">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasLincoln&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasLincoln&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ThomasLincoln.visitor-badge)
 
