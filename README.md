@@ -14,6 +14,6 @@
 ## &#x1f4c8; GitHub Stats
 
 <div>
-  <p align="left"><img height="100" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasLincoln&show_icons=true&locale=en&layout=compact&theme=radical"  alt="Thomas Lincoln"/></p>
-  <p><img align="right" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasLincoln&theme=radical" alt="Thomas Lincoln" /></p>
+  <p align="left"><img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasLincoln&show_icons=true&locale=en&layout=compact&theme=radical"  alt="Thomas Lincoln"/></p>
+  <p><img align="right" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasLincoln&theme=radical" alt="Thomas Lincoln" /></p>
 </div>
