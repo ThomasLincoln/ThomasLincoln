@@ -1,7 +1,7 @@
 ### Hi there i'm Thomas
-<p> My name is Thomas and I'm a Web developer student. Who is passionate about building tech, teaching and learning new technologies.</p>
+<p>Me chamo Thomas e sou um estudante de desenvolvimento frontend, apaixonado por descobrir novas tecnologias e aprender mais.</p>
 
-In moment 🌱: Js and Unity Game Develop
+🌱No momento estou estudando : Js
 
 ### 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
@@ -13,8 +13,8 @@ In moment 🌱: Js and Unity Game Develop
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasLincoln&show_icons=true&locale=en&layout=compact&theme=radical" alt="Thomas Lincoln"/></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasLincoln&show_icons=true&locale=en&layout=compact&theme=radical" alt="Thomas Lincoln"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasLincoln&theme=radical" alt="Thomas Lincoln" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasLincoln&theme=radical" alt="Thomas Lincoln" /></p>
+<p></p>
 
 [![Thomas's github activity graph](https://activity-graph.herokuapp.com/graph?username=ThomasLincoln&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
