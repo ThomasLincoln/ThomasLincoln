@@ -1,7 +1,7 @@
 ### Hi there i'm Thomas
-<p>Me chamo Thomas e sou um estudante de desenvolvimento frontend, apaixonado por descobrir novas tecnologias e aprender mais.</p>
+<p>My name is Thomas and I'm a frontend development student, passionate about discovering new technologies and learning more.</p>
 
-🌱No momento estou estudando : Js
+🌱I'm currently studying: Js
 
 ### 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
