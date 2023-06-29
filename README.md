@@ -5,11 +5,37 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-|                                         |                                         |
-| :-------------------------------------: | :-------------------------------------: |
-| ![Webpack](https://raw.githubusercontent.com/webpack/media/master/logo/icon.png){:height="30px" width="30px"} | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg){:height="30px" width="40px"} |
-| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg){:height="30px" width="40px"} | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg){:height="30px" width="40px"} |
-| ![GitHub](https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=000000){:height="30px" width="40px"} |                                         |
+
+<div class="center-table">
+  <table>
+    <tr>
+      <th colspan="2">Front-end</th>
+      <th>Versionamento</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="Webpack" height="30" width="30">
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40">
+      </td>
+      <td rowspan="3">
+        <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=000000" alt="GitHub" height="30" width="40">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30" width="40">
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30" width="40">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
+    </tr>
+  </table>
+</div>
 
 
 ## &#x1f4c8; GitHub Stats
