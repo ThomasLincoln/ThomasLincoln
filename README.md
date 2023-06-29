@@ -1,16 +1,22 @@
-### Hi there i'm Thomas
-<p>My name is Thomas and I'm a frontend development student, passionate about discovering new technologies and learning more.</p>
+## Hello, I'm Thomas! 👋
 
-🌱I'm currently studying: React
+I'm a frontend development student, passionate about discovering new technologies and continuously learning.
+
+- 🌱 Currently, I'm focused on studying React and enhancing my skills in this JavaScript library.
+- 💡 I'm always on the lookout for interesting projects to apply my knowledge and contribute to the community.
+- 👯 I enjoy collaborating on open-source projects and learning from other developers.
+
+Feel free to explore my repositories and get in touch. Let's learn together and build amazing things! 🚀
+
 
 ### 🛠 &nbsp;Tech Stack
-
-
-<div class="center-table">
+<div width= "auto" height= "auto" align="center" style="margin-top: 20px; margin-bottom: 20px; margin-left: auto; margin-right: auto;">
   <table>
     <tr>
       <th colspan="2">Front-end</th>
-      <th>Versionamento</th>
+      <th colspan="2">Banco de Dados</th>
+      <th colspan="2">Controle de Versão</th>
+      <th>Framework</th>
     </tr>
     <tr>
       <td>
@@ -19,8 +25,20 @@
       <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40">
       </td>
-      <td rowspan="3">
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="30" width="40">
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" width="40">
+      </td>
+      <td>
         <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=000000" alt="GitHub" height="30" width="40">
+      </td>
+      <td>
+        <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=000000" alt="Git" height="30" width="40">
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30" width="40">
       </td>
     </tr>
     <tr>
@@ -30,12 +48,14 @@
       <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30" width="40">
       </td>
-    </tr>
-    <tr>
       <td colspan="2"></td>
+      <td colspan="2"></td>
+      <td></td>
     </tr>
   </table>
 </div>
+
+
 
 
 ## &#x1f4c8; GitHub Stats
