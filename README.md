@@ -1,16 +1,16 @@
 ### Hi there i'm Thomas
 <p>My name is Thomas and I'm a frontend development student, passionate about discovering new technologies and learning more.</p>
 
-🌱I'm currently studying: Js
+🌱I'm currently studying: React
 
 ### 🛠 &nbsp;Tech Stack
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thomas-Webpack" height="30" width="30" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png">  
-  <img align="center" alt="Thomas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thomas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thomas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thomas-Github" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=000000">  
-</div>
+
+|           |           |
+| :-------: | :-------: |
+|   ![Webpack](https://raw.githubusercontent.com/webpack/media/master/logo/icon.png)   |   ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)   |
+|   ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)   |   ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)   |
+|   ![GitHub](https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=000000)   |           |
+
 
 ## &#x1f4c8; GitHub Stats
 
