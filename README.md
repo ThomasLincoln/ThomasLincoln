@@ -5,11 +5,11 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-|           |           |
-| :-------: | :-------: |
-|   ![Webpack](https://raw.githubusercontent.com/webpack/media/master/logo/icon.png)   |   ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)   |
-|   ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)   |   ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)   |
-|   ![GitHub](https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=000000)   |           |
+|                                         |                                         |
+| :-------------------------------------: | :-------------------------------------: |
+| ![Webpack](https://raw.githubusercontent.com/webpack/media/master/logo/icon.png){:height="30px" width="30px"} | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg){:height="30px" width="40px"} |
+| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg){:height="30px" width="40px"} | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg){:height="30px" width="40px"} |
+| ![GitHub](https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=000000){:height="30px" width="40px"} |                                         |
 
 
 ## &#x1f4c8; GitHub Stats
