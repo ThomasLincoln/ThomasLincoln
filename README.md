@@ -10,56 +10,16 @@ Feel free to explore my repositories and get in touch. Let's learn together and 
 
 
 ### 🛠 &nbsp;Tech Stack
-    <div width="auto" height="auto" align="center" style={{ marginTop: 20, marginBottom: 20, marginLeft: 'auto', marginRight: 'auto' }}>
-      <table>
-        <thead>
-          <tr>
-            <th colspan="2">Front-end</th>
-            <th colspan="2">Banco de Dados</th>
-            <th colspan="2">Controle de Versão</th>
-            <th>Framework</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>
-              <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="Webpack" height="30" width="30" />
-            </td>
-            <td>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40" />
-            </td>
-            <td>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="30" width="40" />
-            </td>
-            <td>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" width="40" />
-            </td>
-            <td>
-              <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=000000" alt="GitHub" height="30" width="40" />
-            </td>
-            <td>
-              <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=000000" alt="Git" height="30" width="40" />
-            </td>
-            <td>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30" width="40" />
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30" width="40" />
-            </td>
-            <td>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30" width="40" />
-            </td>
-            <td colspan="2"></td>
-            <td colspan="2"></td>
-            <td></td>
-          </tr>
-        </tbody>
-   </table>
-</div>
 
-
+| Frontend| Backend | Banco de Dados | Design | Ferramentas |
+|---------|---------|---------------|--------|------------|
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sequelize" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ps" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" /></a> | |
+|<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" /></a> |<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" /></a>||<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender" /></a>|<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=md" /></a>
+|<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" /></a> ||||<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+|<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=styledcomponents" /></a> ||||
+|<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redux" /></a> ||||
+|<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" /></a> ||||
 
 
 ## &#x1f4c8; GitHub Stats
