@@ -30,7 +30,7 @@ Feel free to explore my repositories and get in touch. Let's learn together and 
         <img height="170" width="40%"  src="https://github-readme-stats.vercel.app/api?username=ThomasLincoln&show_icons=true&show=reviews&hide=issues&bg_color=30,6a0fa1,e81be5&title_color=fff&text_color=fff" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
-        <img height="200" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=7969e30e-384b-4ced-9bc4-7c3e66fe7088&layout=compact" />
+        <img height="250" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=7969e30e-384b-4ced-9bc4-7c3e66fe7088&layout=compact" />
     </a>
 </div>
 
