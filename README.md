@@ -38,7 +38,7 @@ Feel free to explore my repositories and get in touch. Let's learn together and 
     <p align="left">
         <img height="170" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ThomasLincoln&show_icons=true&show=reviews&hide=issues&bg_color=30,6a0fa1,e81be5&title_color=fff&text_color=fff"  alt="Thomas Lincoln"/>
     </p> 
-    <p height="3000">
-        <img align="right"  width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=7969e30e-384b-4ced-9bc4-7c3e66fe7088&layout=compact" alt="Thomas Lincoln" />
+    <p>
+        <img align="right" style="width:128px;height:128px;" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=7969e30e-384b-4ced-9bc4-7c3e66fe7088&layout=compact" alt="Thomas Lincoln" />
     </p>
 </div>
