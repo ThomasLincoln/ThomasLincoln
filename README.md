@@ -23,9 +23,6 @@ Feel free to explore my repositories and get in touch. Let's learn together and 
 
 
 ## &#x1f4c8; GitHub Stats
+[![wakatime](https://wakatime.com/badge/user/7969e30e-384b-4ced-9bc4-7c3e66fe7088.svg)](https://wakatime.com/@7969e30e-384b-4ced-9bc4-7c3e66fe7088)
 
-<div>
-    <p align="left"><img height="170" width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasLincoln&show_icons=true&locale=en&layout=compact&theme=radical"  alt="Thomas Lincoln"/></p> 
-    <p><img align="right" height="170" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasLincoln&theme=radical" alt="Thomas Lincoln" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasLincoln\&show_icons=true\&show=reviews\&hide=issues\&bg_color=30,6a0fa1,e81be5\&title_color=fff\&text_color=fff)
