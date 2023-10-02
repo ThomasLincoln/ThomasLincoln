@@ -27,5 +27,5 @@ Feel free to explore my repositories and get in touch. Let's learn together and 
 <div>
     <p align="left"><img height="170" width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasLincoln&show_icons=true&locale=en&layout=compact&theme=radical"  alt="Thomas Lincoln"/></p> 
     <p><img align="right" height="170" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasLincoln&theme=radical" alt="Thomas Lincoln" /></p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
