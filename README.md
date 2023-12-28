@@ -12,7 +12,7 @@ Please feel free to explore my repositories and get in touch with me. Let's lear
 (Just click in the Image)
 [![Foo](http://i.imgur.com/Ady9kq4.png)](https://thomaslincolnportfolio.onrender.com/)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Wakatime Stats
 [![wakatime](https://wakatime.com/badge/user/7969e30e-384b-4ced-9bc4-7c3e66fe7088.svg)](https://wakatime.com/@7969e30e-384b-4ced-9bc4-7c3e66fe7088)
 
 
