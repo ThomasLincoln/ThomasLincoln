@@ -2,7 +2,7 @@
 
 I'm a FullStack development student, passionate about discovering new technologies and continuously learning.
 
-- 🌱 Currently, I'm focused on studying **React Native** and creating a great portfolio.
+- 🌱 Currently, I'm focused on studying **Docker** and making **Leet Code** exercises.
 - 💡 I'm always looking for interesting projects to apply my knowledge and contribute to the community.
 - 👯 I enjoy collaborating on open-source projects and learning from other developers.
 
