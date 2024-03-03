@@ -6,7 +6,7 @@ I'm a FullStack development student, passionate about discovering new technologi
 - 💡 I'm always looking for interesting projects to apply my knowledge and contribute to the community.
 - 👯 I enjoy collaborating on open-source projects and learning from other developers.
 
-Please feel free to explore my repositories and get in touch with me. Let's learn together and build amazing things! 🚀=
+Please feel free to explore my repositories and get in touch with me. Let's learn together and build amazing things! 🚀:)
 
 # My Portfolio Site 
 (Just click in the Image)
